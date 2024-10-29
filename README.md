@@ -1,0 +1,1 @@
+This repository contains the code and results from my college internal lab exam on Digital Image Processing. It includes various image processing operations such as brightness adjustment, contrast manipulation, histogram equalization, noise addition and filtering, and frequency domain filtering.
